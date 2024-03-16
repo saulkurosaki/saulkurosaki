@@ -58,6 +58,9 @@
 
 # <picture><img src="https://media2.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif?cid=6c09b95221hbz3noua8unadww97wxrgfwesrv5msxql49t3a&ep=v1_stickers_related&rid=giphy.gif&ct=s" width = 50px></picture>  My Stats
 <div>
+   <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=saulkurosaki&theme=holi-theme&hide_border=true" alt="GitHub Streak">
+   </a>
 </div>
    
 
