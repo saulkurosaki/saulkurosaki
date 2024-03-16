@@ -62,6 +62,9 @@
       <img src="https://streak-stats.demolab.com?user=saulkurosaki&theme=holi-theme&hide_border=true" alt="GitHub Streak">
    </a>
    <img src="https://github-readme-stats.vercel.app/api?username=saulkurosaki&show_icons=true&theme=holi&hide_border=true" alt="Anurag's GitHub stats">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulkurosaki&layout=compact&theme=holi&border=false&hide_border=true" alt="Top Languages">
+   </a>
 </div>
    
 
