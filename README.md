@@ -22,7 +22,13 @@
 
 # <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  About me 
 
-  I'm a Mexican 22 year old Front-End React/NextJs Developer with an extreme passion for developing Web Applications and working on becoming a Full-Stack Dev.
+I'm Saul, a Mexican 23-year-old Front-End React/NextJs developer with an extreme passion for developing Web Applications and working on becoming a Full-Stack Dev.
+
+Specialized on creating web experiences and web applications, with stunning designs at first impression, as well as in their optimization and responsiveness on all kinds of devices, ensuring an unforgettable user experience.
+
+If you have a project in mind, I'll be happy to work together and help you transform your ideas into an amazing platform that meets your expectations and provides your clients with the best user experience they deserve.
+
+I work daily with tools such as Javascript, Typescript, ReactJs, NextJs, NodeJs, TailwindCss, Git, GitHub, MongoDB, APIs, etc... Thus having extensive knowledge and mastery over them.
 <br>
 <br>
 <br>
