@@ -20,7 +20,7 @@
 
 ###
 
-# <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  About me 
+# About me 
 
 I'm Saul, a Mexican 23-year-old Front-End React/NextJs developer with an extreme passion for developing Web Applications and working on becoming a Full-Stack Dev.
 
