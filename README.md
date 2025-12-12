@@ -1,6 +1,6 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
 
-# Hey!, Welcome to my GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# Software Architect & Next.js Lead | AI-Driven Development <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p align="center">
 
@@ -21,8 +21,6 @@
 ###
 
 # About me 
-
-### 🎯 Software Architect & Next.js Lead | AI-Driven Development
 
 Hello! I'm Saul Paredes Fano, a Computer Science Engineer with **4 years of experience** specializing in high-performance Front-End Architecture. My focus has shifted from mere coding to executing critical **Architectural Decisions** that drive business impact. I excel at delivering solutions that are not just visually stunning, but inherently scalable, secure, and optimized for global reach.
 
