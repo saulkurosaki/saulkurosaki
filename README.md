@@ -22,17 +22,20 @@
 
 # About me 
 
-I'm Saul, a Mexican 24-year-old Front-End React/NextJs16 developer with an extreme passion for developing Web Applications and working on becoming a Full-Stack Dev.
+### 🎯 Software Architect & Next.js Lead | AI-Driven Development
 
-Specialized on creating web experiences and web applications, with stunning designs at first impression, as well as in their optimization and responsiveness on all kinds of devices, ensuring an unforgettable user experience.
+Hello! I'm Saul Paredes Fano, a Computer Science Engineer with **4 years of experience** specializing in high-performance Front-End Architecture. My focus has shifted from mere coding to executing critical **Architectural Decisions** that drive business impact. I excel at delivering solutions that are not just visually stunning, but inherently scalable, secure, and optimized for global reach.
 
-If you have a project in mind, I'll be happy to work together and help you transform your ideas into an amazing platform that meets your expectations and provides your clients with the best user experience they deserve.
+**My T-Shape Value Proposition (Anti-IA Focus):**
 
-I work daily with tools such as Javascript, Typescript, ReactJs, NextJs, NodeJs, TailwindCss, Git, GitHub, MongoDB, APIs, etc... Thus having extensive knowledge and mastery over them.
-<br>
-<br>
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
+*   **Strategic Architecture:** Proven ability to implement scalable architectures, leveraging Next.js (SSR/SSG) and TypeScript for high maintainability and low technical debt.
+*   **Performance & SEO:** Expertise in **Performance Optimization (Core Web Vitals)** and **SEO Strategy**, ensuring measurable increases in organic traffic and user retention (e.g., reducing LCP).
+*   **AI Integration:** Experience leading **AI-Driven Development** projects (SaaS and Full-Stack) that integrate modern tools like OpenAI and Clerk (as seen in my pinned repos).
+*   **Collaboration & Business:** Focus on **Cross-functional collaboration** and deep **Business Domain Understanding**, translating complex needs into robust technical roadmaps.
+
+**Core Stack & Tools:** Next.js 16, React.js, Javascript/TypeScript, Tailwind CSS, Full-Stack Capabilities (MERN/Node.js), Core Web Vitals, AI Integration, AI-Driven Development, Sentry, GSAP, GSC/GA4.
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>Let’s connect to discuss how my strategic approach can accelerate your product roadmap.</b></em>
   <br>
 <br>
   ## 🛠️ &nbsp;My Tech Stacks
